@@ -1,5 +1,3 @@
-Incoming data for Memory Bank --->
-
 Tire Building Specification Card 
 
 (-)[value](++) <-- Represents tolerances for spec
