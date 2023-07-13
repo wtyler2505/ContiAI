@@ -12,3 +12,18 @@ List of Milexx Machines & Work Codes for the tires being made on them:
   Milexx 4 - 927680004600
   Milexx 5 - 927680004000
   Milexx 6 - **NOT YET INSTALLED. STILL A FEW MONTHS AWAY**
+
+List of Materials Used:
+  Innerliner -
+  Left Sidewall -
+  Right Sidewall -
+  Body Ply -
+  Left Chafer -
+  Right Chafer -
+  Shoulder Pads -
+  Breaker 1 -
+  Breaker 2 -
+  Breaker 3 -
+  Breaker 4 -
+  Beads -
+  Tread - 
