@@ -1,0 +1,145 @@
+Tire Specification Card 
+
+(-)[value](++) <-- Represents tolerances for spec
+
+WORK CODE : 927680005200
+Specification Code: 927680005200;E2;100;54402;54402
+Description: 0511158000_295/75 R 22.5 144/141L_Conti HSL 3(EBR)  
+Status Update: 6/5/2023 8:18:38 PM
+
+1st Stage 
+
+Tooling Information 
+Bead Distance Inside (mm) 0(-)607(++)0 
+Carcass Drum Circumference 1 (mm) 1671.6
+Carcass Drum Circumference 2 (mm) 1679.8
+Carcass Drum Exp. Circumference (mm)  1740
+
+Carcass Information
+Carcass Weight (kg) 25.239
+
+Bill Of Materials (BOM) 
+
+Innerliner Assembly: 
+Workcode Workcode92764E001200
+Material H06660Y 
+Width (mm) 6.5(-)640(++)6.5
+Length (mm) 1676
+Weight (kg) 5.66
+
+Sidewall:
+Workcode (left) 927420000410 
+Workcode (right) 927420000420 
+RStrip Material R05606 
+SW Material S10539 
+SW Width (mm) 6(-)255(++)6
+Sidewall Length (mm) 1676 
+Weight (kg) 3.212
+
+IL & SW: 
+Assembly Width (mm) 15(-)1090(++)15
+Sidewall Placement on Innerliner (mm) 580
+Sidewall Set Position (mm) 620
+
+Chafer:
+Workcode (left) 9276A0000610 
+Workcode (right) 9276A0000620 
+Material MD057 
+Angle (º) 20 
+Width (mm) 2.5(-)60(++)2.5 
+Length (mm) 1725
+Positioning (mm) 345
+Weight (kg) 0.453
+
+Polygonal Bead:
+Workcode 9276C0000600
+Apex Top A05989 
+Apex Bottom A05293 
+Angle (º) 45
+Width (mm) 17.39 
+Diameter (mm) 573.31
+Weight (kg) 2.957
+
+BodyPly:
+Workcode 927550000200
+Material MUH001 
+Angle (º) 90 
+Width (mm) 3(-)720(++)3 
+Length (mm) 1727 
+Weight (kg) 4.794
+BodyPly Ends (mm) 37.8
+
+Shoulder Cushion:
+Workcode 927430000500
+Material C01194 
+Thickness (mm) 8.5
+Positioning (mm) 83
+Width (mm) 5(-)76(++)5 
+Length (mm) 1792 
+Weight (kg) 0.771
+
+Remarks - bodyply apply angle from 391 to 395. Breaker 1- spot pos. from 332 to 
+334, app. height from 8 to 4, turned off outer front magnets. Breaker 3- app. height from 12 to 5.5, turned off center front magnets, Breaker 
+4- app. height from 7 to 4.
+
+
+2nd Stage     (WORK CODE :  927680005200)
+
+Tooling 
+Belt Drum Circumference (mm) 2921
+
+B&T Information 
+B&T Weight (kg) 24.893
+
+Bill Of Materials (BOM) 
+
+1st Breaker: 
+Workcode 927530001900
+Material MBL600 
+Angle (º) 50 
+Width (mm) 3.5(-)200(++)3.5 
+Length (mm) 2921
+Weight (kg) 1.977
+
+2nd Breaker: 
+Workcode 927620001700
+Material MBL900 
+Angle (º) 19 
+Width (mm) 3.5(-)231.6(++)3.5 
+Length (mm) 2931
+Weight (kg) 3.276
+
+3rd Breaker: 
+Workcode 927620001900
+Material MBL900 
+Angle (º) -19 
+Width (mm) 3.5(-)211.4(++)3.5 
+Length (mm) 2944
+Weight (kg) 2.723
+
+4th Breaker: 
+Workcode 927530002600
+Material MBL600 
+Angle (º) -19 
+Width (mm) 3.5(-)150(++)3.5 
+Length (mm) 3230 
+Weight (kg) 1.639
+
+Tread: 
+Workcode 927410002600
+Material T01634 
+Width (mm) 4(-)275(++)4 
+Length (mm) 13(-)3010(++)13 
+Weight (kg) 15.267
+HtH Distance (mm) 3107.93
+Tread Diameter (mm) 987.716
+Guiding rail mushroom height (mm) 0(-)13(++)0 
+
+GreenTire Information 
+
+SPOT Splicing: 
+Weight 50.131 
+Circumference center 3103
+Circumference shoulder 3094
+Dist. Center To Shoulder 90 
+Barcode Position Height 74
