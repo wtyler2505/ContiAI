@@ -20,8 +20,8 @@ Equipment/Machines for Data Reference:
 
 Milexx Machines & Work Codes:
 - Milexx 1: [927680003200](https://github.com/wtyler2505/ContiAI/blob/06d210465532d8f63a02b4a54137cc71d5577df9/Tire%20Specifications/927680003200%20(3200).md)
-- Milexx 2: 927680004900 | 927680005500
-- Milexx 3: 927680004800
+- Milexx 2: 927680004900 | [927680005500](https://github.com/wtyler2505/ContiAI/blob/1f5bc17d949222b17920e7041af8807edf40d541/Tire%20Specifications/927680005500%20(5500).md)
+- Milexx 3: 927680004800 | [927680005200](https://github.com/wtyler2505/ContiAI/blob/1f5bc17d949222b17920e7041af8807edf40d541/Tire%20Specifications/927680005200%20(5200).md)
 - Milexx 4: 927680004000 | 927680004800
 - Milexx 5: 927680004600 | 927680005000
 - Milexx 6: NOT YET INSTALLED. STILL A FEW MONTHS AWAY
