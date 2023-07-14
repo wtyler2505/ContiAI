@@ -19,7 +19,7 @@ Text-based data storage for ContiAI Memory Bank:
    - Ply Cutter (PC1)
 
 ## Milexx Machine (Tire Size) : Work Codes
-- Milexx 1 (22.5"): [927680003200](https://github.com/wtyler2505/ContiAI/blob/06d210465532d8f63a02b4a54137cc71d5577df9/Tire%20Specifications/927680003200%20(3200).md)
+- Milexx 1 (22.5"): [927680003200](https://github.com/wtyler2505/ContiAI/blob/06d210465532d8f63a02b4a54137cc71d5577df9/Tire%20Specifications/927680003200%20(3200).md), [927680003600](https://github.com/wtyler2505/ContiAI/blob/main/Tire%20Specifications/927680003600%20(3600).md)
 - Milexx 2 (24.5"): 927680004900, [927680005500](https://github.com/wtyler2505/ContiAI/blob/1f5bc17d949222b17920e7041af8807edf40d541/Tire%20Specifications/927680005500%20(5500).md)
 - Milexx 3 (22.5"): 927680004800, [927680005200](https://github.com/wtyler2505/ContiAI/blob/1f5bc17d949222b17920e7041af8807edf40d541/Tire%20Specifications/927680005200%20(5200).md)
 - Milexx 4 (22.5"): 927680004000, 927680004800
