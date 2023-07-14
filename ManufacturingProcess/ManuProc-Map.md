@@ -1,11 +1,11 @@
 **ContiAI/ManufacturingProcess Repo Map**
 
-1> [CompoundPrep](https://github.com/wtyler2505/ContiAI/blob/main/ManufacturingProcess/1-CompoundPrep.md)
-	1.1> Raw Material Selection
-	 1.1.1>
-	 1.1.2>
-	 1.1.3>
-	1.2> Weighing and Mixing
+1.0 [CompoundPrep](https://github.com/wtyler2505/ContiAI/blob/main/ManufacturingProcess/1-CompoundPrep.md)]
+-1.1 Raw Material Selection
+	 -1.1.1
+	 1.1.2
+	 1.1.3
+	1.2 Weighing and Mixing
    1.2.1>
    1.2.2>
    1.2.3>
