@@ -1,7 +1,5 @@
 ﻿
-<table><tr><th colspan="3" valign="top"><b>Daily Shift Report CP/TB - Setup</b> </th><th colspan="3" valign="top">![A picture containing text, clipart
-
-Description automatically generated](Aspose.Words.adfd7bbd-40c5-4f13-b1fa-842616bf6105.001.png)</th></tr>
+<table><tr><th colspan="3" valign="top"><b>Daily Shift Report CP/TB - Setup</b> </th><th colspan="3" valign="top">(https://github.com/wtyler2505/ContiAI/assets/26310130/10400479-7f4a-43d6-a845-e312e361da89)</th></tr>
 <tr><td valign="top"><b>Date/Schedule</b></td><td colspan="4" valign="top">`  `<b>6/28/2023   //   19:00-07:00</b></td><td rowspan="3" valign="top"></td></tr>
 <tr><td valign="top"><b>Team</b></td><td colspan="4" valign="top"><b>Blue Shift</b></td></tr>
 <tr><td valign="top"><b>Setup Technician</b></td><td colspan="4" valign="top">`	`<b><i>Andrew Wright & Scott Bryan</i></b></td></tr>
