@@ -2,29 +2,29 @@
 
 1> CompoundPrep
 	1.1> Raw Material Selection
-   1.1.1-
-   1.1.2-
-   1.1.3-
+   1.1.1>
+   1.1.2>
+   1.1.3>
 	1.2> Weighing and Mixing
-   1.2.1-
-   1.2.2-
-   1.2.3-
+   1.2.1>
+   1.2.2>
+   1.2.3>
 	1.3> Mixing Process
-   1.3.1-
-   1.3.2-
-   1.3.3-
+   1.3.1>
+   1.3.2>
+   1.3.3>
 	1.4> Chemical Additives
-   1.4.1-
-   1.4.2-
-   1.4.3-
+   1.4.1>
+   1.4.2>
+   1.4.3>
 	1.5> Mixing Time and Temperature
-   1.5.1-
-   1.5.2-
-   1.5.3-
+   1.5.1>
+   1.5.2>
+   1.5.3>
 	1.6> Quality Control and Testing
-   1.6.1-
-   1.6.2-
-   1.6.3-
+   1.6.1>
+   1.6.2>
+   1.6.3>
 
 2> TreadSidewallPrep
 	2.1T> Tread Compound Mixing
