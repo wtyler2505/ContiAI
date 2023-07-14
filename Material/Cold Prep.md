@@ -58,4 +58,16 @@ Material List and Basic Specifications (Cold Prep Department)
 
 **Steel Chafers:**
 
+*Left*
 - 
+- 9276A0000710
+  - Material: MD057
+  - Angle (º): 20
+  - Width (mm): 2.5(-)75(++)2.5
+
+*Right*
+- 
+- 9276A0000720
+  - Material: MD057
+  - Angle (º): 20
+  - Width (mm): 2.5(-)75(++)2.5
