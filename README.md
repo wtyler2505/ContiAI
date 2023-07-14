@@ -19,7 +19,7 @@ Equipment/Machines for Data Reference:
    - Ply Cutter (PC1)
 
 Milexx Machines & Work Codes:
-- Milexx 1: 927680003200 https://github.com/wtyler2505/ContiAI/blob/06d210465532d8f63a02b4a54137cc71d5577df9/Tire%20Specifications/927680003200%20(3200).md
+- Milexx 1: [927680003200](https://github.com/wtyler2505/ContiAI/blob/06d210465532d8f63a02b4a54137cc71d5577df9/Tire%20Specifications/927680003200%20(3200).md)
 - Milexx 2: 927680004900 | 927680005500
 - Milexx 3: 927680004800
 - Milexx 4: 927680004000 | 927680004800
