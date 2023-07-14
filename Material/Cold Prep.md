@@ -1,7 +1,6 @@
-Material List and Basic Specifications (Cold Prep Department)
+# Material List and Basic Specifications (Cold Prep Department)
 
-
-**Breaker/Belt Specifications**
+## **Breaker/Belt Specifications**
 
 *1st Breaker:*
 - 927530001900 (1ST BELT-00019/MBL600/50/200)
@@ -35,10 +34,10 @@ Material List and Basic Specifications (Cold Prep Department)
   - Width (mm): 3.5(-)150(++)3.5
 - 927530002600 (4TH BELT-00026/MBL600/19/165)
 
-
-**Bead Specifications:**
-
-- 9276C0000800
+## **Bead Specifications:**
+- 9276C0000600 (BEAD-00006/x 43-/)
+- 9276C0000700 (BEAD-00007/x 47-/)
+- 9276C0000800 (BEAD-00008/x 49-/)
   - Apex Top: A05989
   - Apex Bottom: A05293
   - Angle (º): 45
@@ -46,27 +45,29 @@ Material List and Basic Specifications (Cold Prep Department)
   - Diameter (mm): 624
   - Weight (kg): 3.482
 
-
-
-**BodyPly:**
-
-- 927550001200
+## **BodyPly:**
+- 927550000200 (BODYPLY-MUH001 720.0)
+- 927550000500 (BODYPLY-MUH001 710.0)
+- 927550000600 (BODYPLY-MUH001 730.0)
+- 927550001000 (BODYPLY-MUH001 750.0)
+- 927550001200 (BODYPLY-MUH001 735.0)
   - Material: MUH001
   - Angle (º): 90
   - Width (mm): 3(-)735(++)3
- 
+- 927550001300 (BODYPLY-MUH001 755.0)
+  -
 
-**Steel Chafers:**
+## **Steel Chafers:**
 
 *Left*
-- 
+- 9276A0000610
 - 9276A0000710
   - Material: MD057
   - Angle (º): 20
   - Width (mm): 2.5(-)75(++)2.5
 
 *Right*
-- 
+- 9276A0000620
 - 9276A0000720
   - Material: MD057
   - Angle (º): 20
