@@ -194,14 +194,46 @@ Text-based data storage for ContiAI Memory Bank:
 - **Left Chafer:**
 
    - SAP #: 9276A0000610
+	- Specification Code: 9276A0000610;Z1;112;55102;55102
+	- Description: Left Bead Reinf Ass. 60.0 mm 20 deg MD057 
+	- STRIP RUBBER
+		- Material Code: 92757S000200
+	- CALAND. STEEL CORD
+		- Material Code: 927320005700
+	- Breaker Width no assembly (mm): 60
+	- Breaker Total Width (spec card) Assembly Width (mm): 60
 
    - SAP #: 9276A0000710
+	- Specification Code: 9276A0000710;Z1;104;55104;55104
+	- Description: 2gums Left Bead Reinf. Ass. 75.0 mm 20 deg MD057
+	- STRIP RUBBER
+		- Material Code: 92757S000220
+	- CALAND. STEEL CORD
+		- Material Code: 927320005700
+	- Breaker Width no assembly (mm): 75
+	- Breaker Total Width (spec card) Assembly Width (mm): 75
 
 - **Right Chafer:**
 
    - SAP #: 9276A0000620
+	- Specification Code: 9276A0000620;Z1;108;55105;55105
+	- Description: Right Bead Reinf Ass. 60.0 mm 20 deg MD057
+	- STRIP RUBBER
+		- Material Code: 92757S000200
+	- CALAND. STEEL CORD
+		- Material Code: 927320005700
+	- Breaker Width no assembly (mm): 60
+	- Breaker Total Width (spec card) Assembly Width (mm): 60
 
    - SAP #: 9276A0000720
+	- Specification Code: 9276A0000720;Z1;106;55103;55103
+	- Description: 2gums Right Bead Reinf. Ass. 75.0 mm 20 deg MD057
+	- STRIP RUBBER
+		- Material Code: 92757S000220
+	- CALAND. STEEL CORD
+		- Material Code: 927320005700
+	- Breaker Width no assembly (mm): 75
+	- Breaker Total Width (spec card) Assembly Width (mm): 75
 
 - **Shoulder Pads:**
 
