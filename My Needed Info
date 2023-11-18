@@ -2,198 +2,201 @@
 Text-based data storage for ContiAI Memory Bank:
 
 ## Equipment/Machines for Data Reference:
+
 - **Tire Building (Tire Size) : Tire Work Codes**
-   - Milexx 1 (TBAM1) (22.5"): 927680003200
-   - Milexx 2 (TBAM2) (24.5"): 927680005000, 927680004600
-   - Milexx 3 (TBAM3) (22.5"): 927680004800, 927680003600
-   - Milexx 4 (TBBM3) (22.5"): 927680003200
-   - Milexx 5 (TBBM2) (22.5"): 927680005100
-   - Milexx 6 (TBBM1)        : Being Installed
+	- Milexx 1 (TBAM1) (22.5"): 927680003200
+	- Milexx 2 (TBAM2) (24.5"): 927680005000, 927680004600
+	- Milexx 3 (TBAM3) (22.5"): 927680004800, 927680003600
+	- Milexx 4 (TBBM3) (22.5"): 927680003200
+	- Milexx 5 (TBBM2) (22.5"): 927680005100
+	- Milexx 6 (TBBM1)        : Being Installed
 
 - **Cold Prep: Material Work Codes**
-   - BACC 1 (B1): 9276C0000600
-   - BACC 2 (B2): 9276C0000800
-   - BACC 3 (B3): 9276C0000700
-   - Breaker Cutter 1 (BC1)
-   - Breaker Cutter 2 (BC2)
-   - Ply Cutter (PC1)
+	- BACC 1 (B1): 9276C0000600
+	- BACC 2 (B2): 9276C0000800
+	- BACC 3 (B3): 9276C0000700
+	- Breaker Cutter 1 (BC1)
+	- Breaker Cutter 2 (BC2)
+	- Ply Cutter (PC1)
    
 ## Materials & Information:
+
 - **INNERLINER:**
-	- SAP #: 92764E001200 (IL-E0012/620-20/20)
-      - Specification Code: 92764E001200;Z1;100;55541;55541
-      - Description: EBR_IL_640_620
-      - Liner Profile Compound
-  			- Material Name/Type: H06660Y
-         - Material Code: 927250666000
-      - Squeegee
-  			- Material Code: 9276FE001200
-      - Innerliner Width (mm): 620
-      - Squeegee Width (mm): 640
-      - Innerliner/Squeegee StepOff Right&Left (mm): 10
+
+  - SAP #: 92764E001200 (IL-E0012/620-20/20)
+	- Specification Code: 92764E001200;Z1;100;55541;55541
+	- Description: EBR_IL_640_620
+	- Liner Profile Compound
+		- Material Name/Type: H06660Y
+	- Material Code: 927250666000
+	- Squeegee
+		- Material Code: 9276FE001200
+	- Innerliner Width (mm): 620
+	- Squeegee Width (mm): 640
+	- Innerliner/Squeegee StepOff Right&Left (mm): 10
 
   - SAP #: 92764E001300 (IL-E0013/615-20/20)
-      - Specification Code: 92764E001300;Z1;100;55539;55539
-      - Description: EBR_IL_635_615
-      - Liner Profile Compound
-  			- Material Name/Type: H06660Y
-  			- Material Code: 927250666000
-      - Squeegee
-  			- Material Code: 9276FE001300
-      - Innerliner Width (mm): 635
-      - Squeegee Width (mm): 615
-      - Innerliner/Squeegee StepOff Right&Left (mm): 10
+	- Specification Code: 92764E001300;Z1;100;55539;55539
+	- Description: EBR_IL_635_615
+	- Liner Profile Compound
+		- Material Name/Type: H06660Y
+		- Material Code: 927250666000
+	- Squeegee
+		- Material Code: 9276FE001300
+	- Innerliner Width (mm): 635
+	- Squeegee Width (mm): 615
+	- Innerliner/Squeegee StepOff Right&Left (mm): 10
 
   - SAP #: 92764E001500 (IL-E0015/630-20/20)
-      - Specification Code: 92764E001500;Z1;100;55548;55548
-      - Description: EBR_IL_650_630
-      - Liner Profile Compound
-  			- Material Name/Type: H06660Y
-  			- Material Code: 927250666000
-      - Squeegee
-  			- Material Code: 9276FE001500
-      - Innerliner Width (mm): 630
-      - Squeegee Width (mm): 650
-      - Innerliner/Squeegee StepOff Right&Left (mm): 10
+	- Specification Code: 92764E001500;Z1;100;55548;55548
+	- Description: EBR_IL_650_630
+	- Liner Profile Compound
+		- Material Name/Type: H06660Y
+		- Material Code: 927250666000
+	- Squeegee
+		- Material Code: 9276FE001500
+	- Innerliner Width (mm): 630
+	- Squeegee Width (mm): 650
+	- Innerliner/Squeegee StepOff Right&Left (mm): 10
 
-   - SAP #: 92764E001600 (IL-E0016/655-20/20)
-      - Specification Code: 92764E001600;Z1;100;55540;55540
-      - Description: EBR_IL_675_655
-      - Liner Profile Compound
-  			- Material Name/Type: H06660Y
-  			- Material Code: 927250666000
-      - Squeegee
-  			- Material Code: 9276FE001400
-      - Innerliner Width (mm): 655
-      - Squeegee Width (mm): 675
-      - Innerliner/Squeegee StepOff Right&Left (mm): 10
+  - SAP #: 92764E001600 (IL-E0016/655-20/20)
+	- Specification Code: 92764E001600;Z1;100;55540;55540
+	- Description: EBR_IL_675_655
+	- Liner Profile Compound
+		- Material Name/Type: H06660Y
+		- Material Code: 927250666000
+	- Squeegee
+		- Material Code: 9276FE001400
+	- Innerliner Width (mm): 655
+	- Squeegee Width (mm): 675
+	- Innerliner/Squeegee StepOff Right&Left (mm): 10
 
 - **Left Sidewall:**
    
-	- SAP #: 927420000410 (SW-00004/255.0/S10539)
-      - Specification Code: 927420000410;Z1;108;55276;55276
-      - Description: 1C9E6_LeftSW
-      - BEAD CUSHION COMPOUND
-  			- Material Name/Type: A05989
-  			- Material Code: 927250598900
-      - SW PROFILE COMPOUND
-  			- Material Code: 927251053900
-      - FLANGE CUSHION COMPOUND
-  			- Material Code: 927250560600
-      - STRIP RUBBER COMPOUND
-  			- Material Code: 927251778500
-      - SW Hot Width (mm): 260
-      - SW Cold Width (mm): 255
-      - Strip Width (cm): 45
-      - Strip Positioning (mm): 85
+  - SAP #: 927420000410 (SW-00004/255.0/S10539)
+	- Specification Code: 927420000410;Z1;108;55276;55276
+	- Description: 1C9E6_LeftSW
+	- BEAD CUSHION COMPOUND
+		- Material Name/Type: A05989
+		- Material Code: 927250598900
+	- SW PROFILE COMPOUND
+		- Material Code: 927251053900
+	- FLANGE CUSHION COMPOUND
+		- Material Code: 927250560600
+	- STRIP RUBBER COMPOUND
+		- Material Code: 927251778500
+	- SW Hot Width (mm): 260
+	- SW Cold Width (mm): 255
+	- Strip Width (cm): 45
+	- Strip Positioning (mm): 85
    
-   - SAP #: 927420000610 (SW-00006/270.0/S10539)
-      - Specification Code: 927420000610;Z1;111;55113;55113
-      - Description: 1CVFX_LEFT SW
-      - BEAD CUSHION COMPOUND
-  			- Material Code: 927250598900
-      - SW PROFILE COMPOUND
-  			- Material Name/Type: S10539
-  			- Material Code: 927250560600
-      - FLANGE CUSHION COMPOUND
-  			- Material Code: 927250560600
-      - STRIP RUBBER COMPOUND
-  			- Material Name/Type: B17785
-  			- Material Code: 927251778500
-      - SW Hot Width (mm):270.8
-      - SW Cold Width (mm): 270
-      - Strip Width (cm): 45
-      - Strip Positioning (mm): 85
+  - SAP #: 927420000610 (SW-00006/270.0/S10539)
+	- Specification Code: 927420000610;Z1;111;55113;55113
+	- Description: 1CVFX_LEFT SW
+	- BEAD CUSHION COMPOUND
+		- Material Code: 927250598900
+	- SW PROFILE COMPOUND
+		- Material Name/Type: S10539
+		- Material Code: 927250560600
+	- FLANGE CUSHION COMPOUND
+		- Material Code: 927250560600
+	- STRIP RUBBER COMPOUND
+		- Material Name/Type: B17785
+		- Material Code: 927251778500
+	- SW Hot Width (mm):270.8
+	- SW Cold Width (mm): 270
+	- Strip Width (cm): 45
+	- Strip Positioning (mm): 85
 
 - **Right Sidewall:**
    
-   - SAP #: 927420000420 (SW-00004/255.0/S10539)
-      - Specification Code: 927420000420;Z1;108;55277;55277
-      - Description: 1C9E6_RightSW
-      - BEAD CUSHION COMPOUND
-  			- Material Code: 927250598900
-      - SW PROFILE COMPOUND
-  			- Material Code: 927251053900
-      - FLANGE CUSHION COMPOUND
-  			- Material Code: 927250560600
-      - STRIP RUBBER COMPOUND
-  			- Material Code: 927251778500
-      - SW Hot Width (mm): 260
-      - SW Cold Width (mm): 255
-      - Strip Width (cm): 45
-      - Strip Positioning (mm): 85
+  - SAP #: 927420000420 (SW-00004/255.0/S10539)
+	- Specification Code: 927420000420;Z1;108;55277;55277
+	- Description: 1C9E6_RightSW
+	- BEAD CUSHION COMPOUND
+		- Material Code: 927250598900
+	- SW PROFILE COMPOUND
+		- Material Code: 927251053900
+	- FLANGE CUSHION COMPOUND
+		- Material Code: 927250560600
+	- STRIP RUBBER COMPOUND
+		- Material Code: 927251778500
+	- SW Hot Width (mm): 260
+	- SW Cold Width (mm): 255
+	- Strip Width (cm): 45
+	- Strip Positioning (mm): 85
    
-   - SAP #: 927420000620 (SW-00006/270.0/S10539)
-      - Specification Code: 927420000620;Z1;111;55112;55112
-      - Description: 1CVFX_RIGHT SW
-      - BEAD CUSHION COMPOUND
-  			- Material Code: 927250598900
-      - SW PROFILE COMPOUND 
-  			- Material Name/Type: S10539
-  			- Material Code: 927251053900
-      - FLANGE CUSHION COMPOUND
-  			- Material Code: 927250560600
-      - STRIP RUBBER COMPOUND
-  			- Material Name/Type: B17785
-  			- Material Code: 927251778500
-      - SW Hot Width (mm): 270.8
-      - SW Cold Width (mm): 270
-      - Strip Width (cm): 45
-      - Strip Positioning (mm): 85
+  - SAP #: 927420000620 (SW-00006/270.0/S10539)
+	- Specification Code: 927420000620;Z1;111;55112;55112
+	- Description: 1CVFX_RIGHT SW
+	- BEAD CUSHION COMPOUND
+		- Material Code: 927250598900
+	- SW PROFILE COMPOUND 
+		- Material Name/Type: S10539
+		- Material Code: 927251053900
+	- FLANGE CUSHION COMPOUND
+		- Material Code: 927250560600
+	- STRIP RUBBER COMPOUND
+		- Material Name/Type: B17785
+		- Material Code: 927251778500
+	- SW Hot Width (mm): 270.8
+	- SW Cold Width (mm): 270
+	- Strip Width (cm): 45
+	- Strip Positioning (mm): 85
 
 - **Body Ply:**
 
-   - SAP #: 927550000200 (BODYPLY-MUH001 720.0)
+  - SAP #: 927550000200 (BODYPLY-MUH001 720.0)
 	- Specification Code: 927550000200;Z1;109;55202;55202
 	- Description: Body Ply 720.0mm MUH001
 	- CALAND. STEEL CORD
-			- Material Code: 927320000100
+		- Material Code: 927320000100
 	- Cord Material Type/Name: MUH001
 	- Width (mm): 720
 	
-   - SAP #: 927550000500 (BODYPLY-MUH001 710.0)
+  - SAP #: 927550000500 (BODYPLY-MUH001 710.0)
 	- Specification Code: 927550000500;Z1;101;55200;55200
 	- Description: Body Ply 710.0 mm MUH001
 	- CALAND. STEEL CORD
-			- Material Code: 927320000100
+		- Material Code: 927320000100
 	- Cord Material Type/Name: MUH001
 	- Width (mm): 710
 
-   - SAP #: 927550000600 (BODYPLY-MUH001 730.0)
+  - SAP #: 927550000600 (BODYPLY-MUH001 730.0)
 	- Specification Code: 927550000600;Z1;107;55201;55201
 	- Description:  Body Ply 730.0 mm MUH001
 	- CALAND. STEEL CORD
-			- Material Code: 927320000100
+		- Material Code: 927320000100
 	- Cord Material Type/Name: MUH001
 	- Width (mm): 730
 
-   - SAP #: 927550001000 (BODYPLY-MUH001 750.0)
+  - SAP #: 927550001000 (BODYPLY-MUH001 750.0)
 	- Specification Code: 927550001000;Z1;101;55199;55199
 	- Description: Body Ply 750.0 mm MUH001
 	- CALAND. STEEL CORD
-			- Material Code: 927320000100
+		- Material Code: 927320000100
 	- Cord Material Type/Name: MUH001
 	- Width (mm): 750
 
-   - SAP #: 927550001200 (BODYPLY-MUH001 735.0)
+  - SAP #: 927550001200 (BODYPLY-MUH001 735.0)
 	- Specification Code: 927550001200;Z1;102;55203;55203
 	- Description: Body Ply 735.0 mm MUH001 
 	- CALAND. STEEL CORD
-			- Material Code: 927320000100
+		- Material Code: 927320000100
 	- Cord Material Type/Name: MUH001
 	- Width (mm): 735
 
-   - SAP #: 927550001300 (BODYPLY-MUH001 755.0)
+  - SAP #: 927550001300 (BODYPLY-MUH001 755.0)
 	- Specification Code: 927550001300;Z1;100;55205;55205
 	- Description: Body Ply 755.0mm MUH001 
 	- CALAND. STEEL CORD
-			- Material Code: 927320000100
+		- Material Code: 927320000100
 	- Cord Material Type/Name: MUH001
 	- Width (mm): 755
 
 - **Left Chafer:**
 
-   - SAP #: 9276A0000610
+  - SAP #: 9276A0000610
 	- Specification Code: 9276A0000610;Z1;112;55102;55102
 	- Description: Left Bead Reinf Ass. 60.0 mm 20 deg MD057 
 	- STRIP RUBBER
@@ -203,7 +206,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 60
 	- Breaker Total Width (spec card) Assembly Width (mm): 60
 
-   - SAP #: 9276A0000710
+  - SAP #: 9276A0000710
 	- Specification Code: 9276A0000710;Z1;104;55104;55104
 	- Description: 2gums Left Bead Reinf. Ass. 75.0 mm 20 deg MD057
 	- STRIP RUBBER
@@ -215,7 +218,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Right Chafer:**
 
-   - SAP #: 9276A0000620
+  - SAP #: 9276A0000620
 	- Specification Code: 9276A0000620;Z1;108;55105;55105
 	- Description: Right Bead Reinf Ass. 60.0 mm 20 deg MD057
 	- STRIP RUBBER
@@ -225,7 +228,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 60
 	- Breaker Total Width (spec card) Assembly Width (mm): 60
 
-   - SAP #: 9276A0000720
+  - SAP #: 9276A0000720
 	- Specification Code: 9276A0000720;Z1;106;55103;55103
 	- Description: 2gums Right Bead Reinf. Ass. 75.0 mm 20 deg MD057
 	- STRIP RUBBER
@@ -237,7 +240,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Shoulder Pads:**
 
-   - SAP #: 927430000500 (SP-005)
+  - SAP #: 927430000500 (SP-005)
 	- Specification Code: 927430000500;Z1;100;55227;55227
 	- Description: 09AV7-SP
 	- SHOULDER CUSHION COMPOUND
@@ -248,7 +251,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- SP OS Cold Width (mm): 76
 	- SP DS Cold Width (mm): 76
 	
-   - SAP #: 927430000600 (SP-006)
+  - SAP #: 927430000600 (SP-006)
 	- Specification Code: 927430000600;Z1;100;55131;55131
 	- Description: 09AWN-SP
 	- SHOULDER CUSHION COMPOUND
@@ -259,7 +262,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- SP OS Cold Width (mm): 100
 	- SP DS Cold Width (mm): 100
 
-   - SAP #: 927430000700 (SP-007)
+  - SAP #: 927430000700 (SP-007)
 	- Specification Code: 927430000700;Z1;100;54788;54788
 	- Description: 0IS7V_SP
 	- SHOULDER CUSHION COMPOUND
@@ -270,7 +273,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- SP OS Cold Width (mm): 115
 	- SP DS Cold Width (mm): 115
 
-   - SAP #: 927430000900 (SP-009)
+  - SAP #: 927430000900 (SP-009)
 	- Specification Code: 927430000900;Z1;100;55130;55130 
 	- Description: 1B5SU_SP
 	- SHOULDER CUSHION COMPOUND
@@ -283,7 +286,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Breaker 1:**
 
-   - SAP #: 927530001900 (1ST BELT-00019/MBL600/50/200)
+  - SAP #: 927530001900 (1ST BELT-00019/MBL600/50/200)
 	- Specification Code: 927530001900;Z1;102;55272;55272
 	- Description: 1st Belt 200.0 mm 50 deg MBL600
 	- CALAND. STEEL CORD
@@ -291,7 +294,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 200.00
 	- Breaker Total Width (spec card) Assembly Width (mm): 200.00
 
-   - SAP #: 927530002000 (1ST BELT-00020/MBL600/50/180)
+  - SAP #: 927530002000 (1ST BELT-00020/MBL600/50/180)
 	- Specification Code: 927530002000;Z1;103;55273;55273
 	- Description: 1st belt 180.0 mm 50 deg MBL600
 	- CALAND. STEEL CORD
@@ -301,7 +304,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Breaker 2:**
 
-   - SAP #: 927620001300 (2ND BELT ASSY-00013/MBL900/19/222-28/)
+  - SAP #: 927620001300 (2ND BELT ASSY-00013/MBL900/19/222-28/)
 	- Specification Code: 927620001300;Z1;101;55332;55332
 	- Description: 2nd Belt 220.0 mm, with BEF 221.6 mm 19 deg MBL900
 	- EDGE WRAP PROFILE
@@ -312,7 +315,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 220.00
 	- Breaker Total Width (spec card) Assembly Width (mm): 221.60
 
-   - SAP #: 927620001400 (2ND BELT ASSY-00014/MBL900/19/212-28/)
+  - SAP #: 927620001400 (2ND BELT ASSY-00014/MBL900/19/212-28/)
 	- Specification Code: 927620001400;Z1;105;55336;55336
 	- Description: 2nd Belt 210.0 mm, with BEF 211.6 mm 19 deg MBL900
 	- EDGE WRAP PROFILE
@@ -323,7 +326,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 210.00
 	- Breaker Total Width (spec card) Assembly Width (mm): 211.60
 
-   - SAP #: 927620001600 (2ND BELT ASSY-00016/MBL900/19/227-28/)
+  - SAP #: 927620001600 (2ND BELT ASSY-00016/MBL900/19/227-28/)
 	- Specification Code: 927620001600;Z1;101;55335;55335
 	- Description: 2nd Belt 225.0 mm, with BEF 226.6 mm 19 deg MBL900
 	- EDGE WRAP PROFILE
@@ -334,7 +337,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 225.00
 	- Breaker Total Width (spec card) Assembly Width (mm): 226.60
 
-   - SAP #: 927620001700 (2ND BELT ASSY-00017/MBL900/19/232-28/)
+  - SAP #: 927620001700 (2ND BELT ASSY-00017/MBL900/19/232-28/)
 	- Specification Code: 927620001700;Z1;100;55333;55333
 	- Description: 2nd Belt 230.0 mm, with BEF 231.6 mm 19 deg MBL900
 	- EDGE WRAP PROFILE
@@ -348,7 +351,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Breaker 3:**
 
-   - SAP #: 927620001000 (3RD BELT ASSY-00010/MBL900/19/201-28/13)
+  - SAP #: 927620001000 (3RD BELT ASSY-00010/MBL900/19/201-28/13)
 	- Specification Code: 927620001000;Z1;101;55342;55342
 	- Description: 3rd Belt 200.0 mm, with Gum 201.4 mm 19 deg MBL900
 	- CALAND. STEEL CORD
@@ -359,7 +362,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 200.00
 	- Breaker Total Width (spec card) Assembly Width (mm): 201.40
 
-   - SAP #: 927620001100 (3RD BELT ASSY-00011/MBL900/19/191-28/13)
+  - SAP #: 927620001100 (3RD BELT ASSY-00011/MBL900/19/191-28/13)
 	- Specification Code: 927620001100;Z1;103;55344;55344
 	- Description: 3rd Belt 190.0 mm, with Gum 191.4 mm 19 deg MBL900  
 	- CALAND. STEEL CORD
@@ -370,7 +373,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 190.00
 	- Breaker Total Width (spec card) Assembly Width (mm): 191.40
 
-   - SAP #: 927620001900 (3RD BELT ASSY-00019/MBL900/19/211-28/13)
+  - SAP #: 927620001900 (3RD BELT ASSY-00019/MBL900/19/211-28/13)
 	- Specification Code: 927620001900;Z1;100;55345;55345
 	- Description: 3rd Belt 210 mm, with Gum 211.40 mm  
 	- CALAND. STEEL CORD
@@ -383,7 +386,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Breaker 4:**
 
-   - SAP #: 927530001600 (4TH BELT-00016/MBL600/19/76)
+  - SAP #: 927530001600 (4TH BELT-00016/MBL600/19/76)
 	- Specification Code: 927530001600;Z1;110;55101;55101
 	- Description: 4th Belt 76.0 mm 19 deg MBL600  
 	- CALAND. STEEL CORD
@@ -391,7 +394,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Width no assembly (mm): 76.00
 	- Breaker Total Width (spec card) Assembly Width (mm): 76.00
 
-   - SAP #: 927530002500 (4TH BELT-00025/MBL600/19/150)
+  - SAP #: 927530002500 (4TH BELT-00025/MBL600/19/150)
 	- Specification Code: 927530002500;Z1;101;55100;55100
 	- Description: 4th Belt 150.0 mm 19 deg MBL600   
 	- CALAND. STEEL CORD
@@ -400,7 +403,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- Breaker Total Width (spec card) Assembly Width (mm): 150.00
 
 
-   - SAP #: 927530002600 (4TH BELT-00026/MBL600/19/165)
+  - SAP #: 927530002600 (4TH BELT-00026/MBL600/19/165)
 	- Specification Code: 927530002600;Z1;100;55099;55099 
 	- Description: 4th Belt 165.0 mm MBL600 19 deg   
 	- CALAND. STEEL CORD
@@ -411,7 +414,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Beads:**
 
-   - SAP #: 9276C0000600 (BEAD-00006/x 43-/)
+  - SAP #: 9276C0000600 (BEAD-00006/x 43-/)
 	- Specification Code: 9276C0000600;Z1;102;55448;55448
 	- Description: 8-9-9-8-5-4 22.5" 573.31 mm diam
 	- Die ID: 09G3I BAC 1,2, and 3
@@ -437,7 +440,7 @@ Text-based data storage for ContiAI Memory Bank:
 		- Material Code: 92757S000100
 
 
-   - SAP #: 9276C0000700 (BEAD-00007/x 47-/)
+  - SAP #: 9276C0000700 (BEAD-00007/x 47-/)
 	- Specification Code: 9276C0000700;Z1;102;55390;55390
 	- Description: ID 573.31mm W 18.3mm 8-9-10-9-7-6 Die #2 (09K5F) Apex width 75mm
 	- Die ID: 09K5F BAC 1,2, or 3.
@@ -464,7 +467,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- STRIP RUBBER
 		- Material Code: 92757S000100
 
-   - SAP #: 9276C0000800 (BEAD-00008/x 49-/)
+  - SAP #: 9276C0000800 (BEAD-00008/x 49-/)
 	- Specification Code: 9276C0000800;Z1;104;55388;55388
 	- Description: 8-9-10-9-7-6 24.5"
 	- Die ID: 09K5F BAC 1,2, and 3.
@@ -490,7 +493,7 @@ Text-based data storage for ContiAI Memory Bank:
 
 - **Tread:**
 
-   - SAP #: 927410000500 (TR-/05911/01634/096XY-)
+  - SAP #: 927410000500 (TR-/05911/01634/096XY-)
 	- Specification Code: 927410000500;Z1;108;55469;55469
 	- Description: 096XY_Eco+
 	- Die ID: 096XY
@@ -510,7 +513,7 @@ Text-based data storage for ContiAI Memory Bank:
 		- Material Code: 927250163400
 
 
-   - SAP #: 927410001400 (TR-/11142/09430/09PAP-)
+  - SAP #: 927410001400 (TR-/11142/09430/09PAP-)
 	- Specification Code: 927410001400;Z1;100;55239;55239
 	- Description: 09PAP_11R+GenHT
 	- Die ID: 09PAP
@@ -530,7 +533,7 @@ Text-based data storage for ContiAI Memory Bank:
 		- Material Name/Type: B00715
 		- Material Code: 927250071500
 
-   - SAP #: 927410001700 (TR-/11142/05482/1APD1-)
+  - SAP #: 927410001700 (TR-/11142/05482/1APD1-)
 	- Specification Code: 927410001700;Z1;103;55245;55245
 	- Description: 1APD1_HSR2_22.5
 	- Die ID: 1APD1
@@ -550,7 +553,7 @@ Text-based data storage for ContiAI Memory Bank:
 		- Material Name/Type: T05482
 		- Material Code: 927250548200
 
-   - SAP #: 927410001800 (TR-/11142/05482/1APD1-)
+  - SAP #: 927410001800 (TR-/11142/05482/1APD1-)
 	- Specification Code: 927410001800;Z1;101;55246;55246
 	- Description: 1APD1_HSR2_24.5
 	- Die ID: 1APD1
@@ -570,7 +573,7 @@ Text-based data storage for ContiAI Memory Bank:
 		- Material Name/Type: T05482
 		- Material Code: 927250548200
 
-   - SAP #: 927410002000 (TR-/11142/03312/1BDHY-)
+  - SAP #: 927410002000 (TR-/11142/03312/1BDHY-)
 	- Specification Code: 927410002000;Z1;103;55496;55496
 	- Description: 1BDHY_GeneralRA_24.5 
 	- Die ID: 1BDHY
@@ -589,7 +592,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- CAP COMPOUND 1
 		- Material Code: 927250331200
 
-   - SAP #: 927410002100 (TR-/05911/01634/096XY-)
+  - SAP #: 927410002100 (TR-/05911/01634/096XY-)
 	- Specification Code: 927410002100;Z1;100;55468;55468
 	- Description: 096XY_11R_Eco+
 	- Die ID: 096XY
@@ -608,7 +611,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- CAP COMPOUND 1
 		- Material Code: 927250163400
 
-   - SAP #: 927410002300 (TR-/11142/15646/1AOUJ-)
+  - SAP #: 927410002300 (TR-/11142/15646/1AOUJ-)
 	- Specification Code: 927410002300;Z1;100;55248;55248
 	- Description: 1AOUJ_GeneralRD_24.5
 	- Die ID: 1AOUJ
@@ -627,7 +630,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- CAP COMPOUND 1
 		- Material Code: 927251564600
 
-   - SAP #: 927410002400 (TR-/11142/15646/09EAC-)
+  - SAP #: 927410002400 (TR-/11142/15646/09EAC-)
 	- Specification Code: 927410002400;Z1;101;55425;55425
 	- Description: 09EAC_24.5_HDL2
 	- Die ID: 09EAC
@@ -646,7 +649,7 @@ Text-based data storage for ContiAI Memory Bank:
 	- CAP COMPOUND 1
 		- Material Code: 927251564600
 
-   - SAP #: 927410002800 (TR-/11142/15646/09EAC-)
+  - SAP #: 927410002800 (TR-/11142/15646/09EAC-)
 	- Specification Code: 927410002800;Z1;100;55424;55424
 	- Description: 09EAC_HDL2_22.5
 	- Die ID: 09EAC
@@ -666,15 +669,13 @@ Text-based data storage for ContiAI Memory Bank:
 		- Material Code: 927251564600
 
 ## Tires & Important Specs:
-- **927680003200:**
+  - **927680003200:**
 	- WORK CODE : 927680003200
 	- Specification Code: 927680003200;E2;100;54350;54350
 	- Description: 0531027000_295/75 R 22.5 144/141L_Conti EcoPlus HT3(EBR)
 	- Bead Distance Inside (mm): 607
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+	- Sidewall Placement on Innerliner (mm): 620
+	- Sidewall Set Position (mm): 580
 	- Liner Assembly
         	- Workcode: 92764E001200
 	- Sidewall
@@ -682,440 +683,476 @@ Text-based data storage for ContiAI Memory Bank:
         	- Workcode (rigth): 927420000420
 	- Pre-Assembly (IL+SW)
 		- Width (mm): 1090
+	- Chafer
+		- Workcode (left): 9276A0000610
+		- Workcode (right): 9276A0000620
+		- Positioning (mm): 345
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000600
+		- Beadset Position (mm): 303.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550000200
+		- Body Ply Ends (mm): 37.8
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000500
+		- Positioning Setpoint (mm): 166
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530001900
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001300
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001000
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410000500
+		- Heater to Heater (HtH) Distance (mm): 3113.08
+	- Barcode Position Height (mm):75
+	- Weight: 46.536
+	- Circumference Center (mm): 3095
+	- Circumference Shoulder (mm): 3084
+	- Distance Center to Shoulder (mm): 90
 
-- **927680003600:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680003600:**
+	- WORK CODE : 927680003600
+	- Specification Code: 927680003600;E2;100;54351;54351
+	- Description: 0531069000_295/75 R 22.5 144/141L_GENERAL HT+(EBR)
+	- Bead Distance Inside (mm): 597
+	- Sidewall Placement on Innerliner (mm): 615
+	- Sidewall Set Position (mm): 570
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001300
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000410
+        	- Workcode (rigth): 927420000420
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1080
+	- Chafer
+		- Workcode (left): 9276A0000610
+		- Workcode (right): 9276A0000620
+		- Positioning (mm): 340
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000600
+		- Beadset Position (mm): 298.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550000500
+		- Body Ply Ends (mm): 37.8
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000600
+		- Positioning Setpoint (mm): 130
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530002000
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001400
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001100
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410001100
+		- Heater to Heater (HtH) Distance (mm): 3118.23
+	- Barcode Position Height (mm): 75
+	- Weight: 45.58
+	- Circumference Center (mm): 3103
+	- Circumference Shoulder (mm): 3094
+	- Distance Center to Shoulder (mm): 90
 
-- **927680004000:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680004000:**
+	- WORK CODE : 927680004000
+	- Specification Code: 927680004000;E2;101;54459;54459 
+	- Description: 0531067000_11 R 22.5 144/142L_GENERAL HT+(EBR)
+	- Bead Distance Inside (mm): 615
+	- Sidewall Placement on Innerliner (mm): 630
+	- Sidewall Set Position (mm): 588
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001500
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1128
+	- Chafer
+		- Workcode (left): 9276A0000610
+		- Workcode (right): 9276A0000620
+		- Positioning (mm): 350
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000600
+		- Beadset Position (mm): 307.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550000600
+		- Body Ply Ends (mm): 38.8
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000700
+		- Positioning Setpoint (mm): 122
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530002000
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001400
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001100
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410001400
+		- Heater to Heater (HtH) Distance (mm): 3226.29
+	- Barcode Position Height (mm): 74
+	- Weight: 48.053
+	- Circumference Center (mm): 3205
+	- Circumference Shoulder (mm): 3178
+	- Distance Center to Shoulder (mm): 90
 
-- **927680004600:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680004600:**
+	- WORK CODE : 927680004600
+	- Specification Code: 927680004600;E2;101;54430;54430
+	- Description: 0512293000_11 R 24.5 149/146L_GENERAL RA(EBR)
+	- Bead Distance Inside (mm): 615
+	- Sidewall Placement on Innerliner (mm): 630
+	- Sidewall Set Position (mm): 588
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001500
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1128
+	- Chafer
+		- Workcode (left): 9276A0000710
+		- Workcode (right): 9276A0000720
+		- Positioning (mm): 353
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000800
+		- Beadset Position (mm): 307.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550001200
+		- Body Ply Ends (mm): 40.7
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000700
+		- Positioning Setpoint (mm): 120
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530002000
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001400
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001100
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410002000
+		- Heater to Heater (HtH) Distance (mm): 3390.97
+	- Barcode Position Height (mm): 74
+	- Weight: 56.774
+	- Circumference Center (mm): 3355
+	- Circumference Shoulder (mm): 3345
+	- Distance Center to Shoulder (mm): 90
 
-- **927680004800:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680004800:**
+	- WORK CODE : 927680004800
+	- Specification Code: 927680004800;E2;105;54142;54142
+	- Description: 0531028000_11 R 22.5 144/142L_Conti EcoPlus HT3(EBR)
+	- Bead Distance Inside (mm): 641
+	- Sidewall Placement on Innerliner (mm): 655
+	- Sidewall Set Position (mm): 614
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001600
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1154
+	- Chafer
+		- Workcode (left): 9276A0000610
+		- Workcode (right): 9276A0000620
+		- Positioning (mm): 362
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000600
+		- Beadset Position (mm): 320.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550001300
+		- Body Ply Ends (mm): 38.3
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000900
+		- Positioning Setpoint (mm): 145
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530001900
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001300
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001000
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410002100
+		- Heater to Heater (HtH) Distance (mm): 3226.29
+	- Barcode Position Height (mm): 74
+	- Weight: 48.781
+	- Circumference Center (mm): 3304
+	- Circumference Shoulder (mm): 3278
+	- Distance Center to Shoulder (mm): 90
 
-- **927680004900:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680004900:**
+	- WORK CODE : 927680004900
+	- Specification Code: 927680004900;E2;100;54163;54163
+	- Description: 0521106000_11 R 24.5 149/146_GENERAL RD (EBR)
+	- Bead Distance Inside (mm): 615
+	- Sidewall Placement on Innerliner (mm): 630
+	- Sidewall Set Position (mm): 588
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001500
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1128
+	- Chafer
+		- Workcode (left): 9276A0000710
+		- Workcode (right): 9276A0000720
+		- Positioning (mm): 353
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000800
+		- Beadset Position (mm): 307.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550001200
+		- Body Ply Ends (mm): 40.7
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000700
+		- Positioning Setpoint (mm): 166
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530002000
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001400
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001100
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410002300
+		- Heater to Heater (HtH) Distance (mm): 3390.97
+	- Barcode Position Height (mm): 74
+	- Weight: 59.804
+	- Circumference Center (mm): 3415
+	- Circumference Shoulder (mm): 3380
+	- Distance Center to Shoulder (mm): 90
 
-- **927680005000:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680005000:**
+	- WORK CODE : 927680005000
+	- Specification Code: 927680005000;E2;100;54436;54436
+	- Description: 0521172000_11 R 24.5 149/146L_Continental HDL2 DL+(EBR)
+	- Bead Distance Inside (mm): 635
+	- Sidewall Placement on Innerliner (mm): 655
+	- Sidewall Set Position (mm): 608
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001600
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1148
+	- Chafer
+		- Workcode (left): 9276A0000710
+		- Workcode (right): 9276A0000720
+		- Positioning (mm): 360
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000800
+		- Beadset Position (mm): 317.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550001000
+		- Body Ply Ends (mm): 38.2
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000900
+		- Positioning Setpoint (mm): 145
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530001900
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001600
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001000
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410002400
+		- Heater to Heater (HtH) Distance (mm): 3426.99
+	- Barcode Position Height (mm): 74
+	- Weight: 65.293
+	- Circumference Center (mm): 3304
+	- Circumference Shoulder (mm): 3278
+	- Distance Center to Shoulder (mm): 90
 
-- **927680005100:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680005100:**
+	- WORK CODE : 927680005100
+	- Specification Code: 927680005100;E2;101;55440;55440
+	- Description: 0512292000_11 R 22.5 146/143L_GENERAL RA(EBR)
+	- Bead Distance Inside (mm): 615
+	- Sidewall Placement on Innerliner (mm): 630
+	- Sidewall Set Position (mm): 588
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001500
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1128
+	- Chafer
+		- Workcode (left): 9276A0000710
+		- Workcode (right): 9276A0000720
+		- Positioning (mm): 353
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000700
+		- Beadset Position (mm): 307.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550001200
+		- Body Ply Ends (mm): 40.7
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000700
+		- Positioning Setpoint (mm): 120
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530002000
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001400
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001100
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410002500
+		- Heater to Heater (HtH) Distance (mm): 3236.59
+		- Height Tread Application (mm): 820
+	- Barcode Position Height (mm): 75
+	- Weight: 52.789
+	- Circumference Center (mm): 3212
+	- Circumference Shoulder (mm): 3186
+	- Distance Center to Shoulder (mm): 90
 
-- **927680005200:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680005200:**
+	- WORK CODE : 927680005200
+	- Specification Code: 927680005200;E2;100;54402;54402
+	- Description: 0511158000_295/75 R 22.5 144/141L_Conti HSL 3(EBR)
+	- Bead Distance Inside (mm): 607
+	- Sidewall Placement on Innerliner (mm): 620
+	- Sidewall Set Position (mm): 580
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001200
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000410
+        	- Workcode (rigth): 927420000420
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1090
+	- Chafer
+		- Workcode (left): 9276A0000610
+		- Workcode (right): 9276A0000620
+		- Positioning (mm): 345
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000600
+		- Beadset Position (mm): 303.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550000200
+		- Body Ply Ends (mm): 37.8
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000500
+		- Positioning Setpoint (mm): 166
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530001900
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001700
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001900
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530002600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410002600
+		- Heater to Heater (HtH) Distance (mm): 3107.93
+	- Barcode Position Height (mm): 74
+	- Weight: 50.131
+	- Circumference Center (mm): 3103
+	- Circumference Shoulder (mm): 3094
+	- Distance Center to Shoulder (mm): 90
 
-- **927680005500:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680005500:**
+	- WORK CODE : 927680005500
+	- Specification Code: 927680005500;E2;101;54415;54415
+	- Description: 0568633000_11 R 24.5 149/146L_Continental HSR2(EBR)
+	- Bead Distance Inside (mm): 615
+	- Sidewall Placement on Innerliner (mm): 630
+	- Sidewall Set Position (mm): 588
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001500
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1128
+	- Chafer
+		- Workcode (left): 9276A0000710
+		- Workcode (right): 9276A0000720
+		- Positioning (mm): 353
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000800
+		- Beadset Position (mm): 307.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550001200
+		- Body Ply Ends (mm): 40.7
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000700
+		- Positioning Setpoint (mm): 122
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530002000
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001400
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001100
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530002500
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410001800
+		- Heater to Heater (HtH) Distance (mm): 3406.41
+	- Barcode Position Height (mm): 74
+	- Weight: 58.645
+	- Circumference Center (mm): 3365
+	- Circumference Shoulder (mm): 3332
+	- Distance Center to Shoulder (mm): 90
 
-- **927680005600:**
-	- WORK CODE : 
-	- Specification Code: 
-	- Description: 
-	- Bead Distance Inside (mm): 
-	- Sidewall Placement on Innerliner (mm):
-		- Right (mm): 
-		- Left (mm): 
-	- Sidewall Set Position (mm): 
+  - **927680005600:**
+	- WORK CODE : 927680005600
+	- Specification Code: 927680005600;E2;101;54439;54439
+	- Description: 0521168000_11 R 22.5 146/143L_Continental HDL2 DL+(EBR)
+	- Bead Distance Inside (mm): 635
+	- Sidewall Placement on Innerliner (mm): 655
+	- Sidewall Set Position (mm): 608
 	- Liner Assembly
-        	- Workcode: 
+        	- Workcode: 92764E001600
 	- Sidewall
-        	- Workcode (left): 
-        	- Workcode (rigth): 
+        	- Workcode (left): 927420000610
+        	- Workcode (rigth): 927420000620
 	- Pre-Assembly (IL+SW)
-		- Width (mm): 
+		- Width (mm): 1148
+	- Chafer
+		- Workcode (left): 9276A0000710
+		- Workcode (right): 9276A0000720
+		- Positioning (mm): 360
 	- Bead
-		- Workcode: 
+		- Workcode: 9276C0000700
+		- Beadset Position (mm): 317.5
 	- Body Ply
-		- Workcode: 
-		- Body Ply Ends (mm):
+		- Workcode: 927550001000
+		- Body Ply Ends (mm): 38.2
 	- Should Pad
-		- Workcode:
-		- Positioning Setpoint (mm): 
+		- Workcode: 927430000900
+		- Positioning Setpoint (mm): 145
 	- Breaker 1
-		- Workcode: 
+		- Workcode: 927530001900
 	- Breaker 2
-		- Workcode: 
+		- Workcode: 927620001600
 	- Breaker 3
-		- Workcode: 
+		- Workcode: 927620001000
 	- Breaker 4
-		- Workcode: 
+		- Workcode: 927530001600
 	- Tread
-		- Workcode: 
-		- Heater to Heater (HtH) Distance (mm): 
-	- Barcode Position Height (mm):
-	- Weight: 
-	- Circumference Center (mm): 
-	- Circumference Shoulder (mm): 
-	- Distance Center to Shoulder (mm): 
+		- Workcode: 927410002800
+		- Heater to Heater (HtH) Distance (mm): 3257.17
+	- Barcode Position Height (mm): 74
+	- Weight: 60.766
+	- Circumference Center (mm): 3304
+	- Circumference Shoulder (mm): 3278
+	- Distance Center to Shoulder (mm): 90
 
 
 
