@@ -238,73 +238,204 @@ Text-based data storage for ContiAI Memory Bank:
 - **Shoulder Pads:**
 
    - SAP #: 927430000500 (SP-005)
-
+	- Specification Code: 927430000500;Z1;100;55227;55227
+	- Description: 09AV7-SP
+	- SHOULDER CUSHION COMPOUND
+		- Material Name/Type: C01194
+		- Material Code: 927250119400
+	- SP OS Hot Width (mm): 83
+	- SP DS Hot Wudth (mm): 83
+	- SP OS Cold Width (mm): 76
+	- SP DS Cold Width (mm): 76
+	
    - SAP #: 927430000600 (SP-006)
+	- Specification Code: 927430000600;Z1;100;55131;55131
+	- Description: 09AWN-SP
+	- SHOULDER CUSHION COMPOUND
+		- Material Name/Type: C01194
+		- Material Code: 927250119400
+	- SP OS Hot Width (mm): 106
+	- SP DS Hot Wudth (mm): 106
+	- SP OS Cold Width (mm): 100
+	- SP DS Cold Width (mm): 100
 
    - SAP #: 927430000700 (SP-007)
+	- Specification Code: 927430000700;Z1;100;54788;54788
+	- Description: 0IS7V_SP
+	- SHOULDER CUSHION COMPOUND
+		- Material Name/Type: C01194
+		- Material Code: 927250119400
+	- SP OS Hot Width (mm): 121
+	- SP DS Hot Wudth (mm): 121
+	- SP OS Cold Width (mm): 115
+	- SP DS Cold Width (mm): 115
 
    - SAP #: 927430000900 (SP-009)
+	- Specification Code: 927430000900;Z1;100;55130;55130 
+	- Description: 1B5SU_SP
+	- SHOULDER CUSHION COMPOUND
+		- Material Name/Type: C01194
+		- Material Code: 927250119400
+	- SP OS Hot Width (mm): 96
+	- SP DS Hot Wudth (mm): 96
+	- SP OS Cold Width (mm): 90
+	- SP DS Cold Width (mm): 90
 
 - **Breaker 1:**
 
-   - 927530001900 (1ST BELT-00019/MBL600/50/200)
+   - SAP #: 927530001900 (1ST BELT-00019/MBL600/50/200)
+	- Specification Code: 927530001900;Z1;102;55272;55272
+	- Description: 1st Belt 200.0 mm 50 deg MBL600
+	- CALAND. STEEL CORD
+		- Material Code: 927320000400
+	- Breaker Width no assembly (mm): 200.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 200.00
 
-   - 927530002000 (1ST BELT-00020/MBL600/50/180)
+   - SAP #: 927530002000 (1ST BELT-00020/MBL600/50/180)
+	- Specification Code: 927530002000;Z1;103;55273;55273
+	- Description: 1st belt 180.0 mm 50 deg MBL600
+	- CALAND. STEEL CORD
+		- Material Code: 927320000400 
+	- Breaker Width no assembly (mm): 180.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 180.00
 
 - **Breaker 2:**
 
-   - 927620001300 (2ND BELT ASSY-00013/MBL900/19/222-28/)
+   - SAP #: 927620001300 (2ND BELT ASSY-00013/MBL900/19/222-28/)
+	- Specification Code: 927620001300;Z1;101;55332;55332
+	- Description: 2nd Belt 220.0 mm, with BEF 221.6 mm 19 deg MBL900
+	- EDGE WRAP PROFILE
+		- Material Code: 927470000400  
+	- CALAND. STEEL CORD
+		- Material Code: 927320000500
+	- Position BEF Plateou to Outside (mm): 15.80
+	- Breaker Width no assembly (mm): 220.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 221.60
 
-   - 927620001400 (2ND BELT ASSY-00014/MBL900/19/212-28/)
+   - SAP #: 927620001400 (2ND BELT ASSY-00014/MBL900/19/212-28/)
+	- Specification Code: 927620001400;Z1;105;55336;55336
+	- Description: 2nd Belt 210.0 mm, with BEF 211.6 mm 19 deg MBL900
+	- EDGE WRAP PROFILE
+		- Material Code: 927470000400 
+	- CALAND. STEEL CORD
+		- Material Code: 927320000500
+	- Position BEF Plateou to Outside (mm): 15.80
+	- Breaker Width no assembly (mm): 210.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 211.60
 
-   - 927620001600 (2ND BELT ASSY-00016/MBL900/19/227-28/)
+   - SAP #: 927620001600 (2ND BELT ASSY-00016/MBL900/19/227-28/)
+	- Specification Code: 927620001600;Z1;101;55335;55335
+	- Description: 2nd Belt 225.0 mm, with BEF 226.6 mm 19 deg MBL900
+	- EDGE WRAP PROFILE
+		- Material Code: 927470000400
+	- CALAND. STEEL CORD
+		- Material Code: 927320000500
+	- Position BEF Plateou to Outside (mm): 15.80
+	- Breaker Width no assembly (mm): 225.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 226.60
 
-   - 927620001700 (2ND BELT ASSY-00017/MBL900/19/232-28/)
+   - SAP #: 927620001700 (2ND BELT ASSY-00017/MBL900/19/232-28/)
+	- Specification Code: 927620001700;Z1;100;55333;55333
+	- Description: 2nd Belt 230.0 mm, with BEF 231.6 mm 19 deg MBL900
+	- EDGE WRAP PROFILE
+		- Material Code: 927470000400
+	- CALAND. STEEL CORD
+		- Material Code: 927320000500
+	- Position BEF Plateou to Outside (mm): 15.80
+	- Breaker Width no assembly (mm): 230.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 231.60
 
 
 - **Breaker 3:**
 
-   - 927620001000 (3RD BELT ASSY-00010/MBL900/19/201-28/13)
+   - SAP #: 927620001000 (3RD BELT ASSY-00010/MBL900/19/201-28/13)
+	- Specification Code: 927620001000;Z1;101;55342;55342
+	- Description: 3rd Belt 200.0 mm, with Gum 201.4 mm 19 deg MBL900
+	- CALAND. STEEL CORD
+		- Material Code: 927320000500
+	- EDGE WRAP PROFILE
+		- Material Code: 92757EW00220
+	- Gum Edge to Outside (mm): 13
+	- Breaker Width no assembly (mm): 200.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 201.40
 
-   - 927620001100 (3RD BELT ASSY-00011/MBL900/19/191-28/13)
+   - SAP #: 927620001100 (3RD BELT ASSY-00011/MBL900/19/191-28/13)
+	- Specification Code: 927620001100;Z1;103;55344;55344
+	- Description: 3rd Belt 190.0 mm, with Gum 191.4 mm 19 deg MBL900  
+	- CALAND. STEEL CORD
+		- Material Code: 927320000500
+	- EDGE WRAP PROFILE
+		- Material Code: 92757EW00220
+	- Gum Edge to Outside (mm): 13
+	- Breaker Width no assembly (mm): 190.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 191.40
 
-   - 927620001900 (3RD BELT ASSY-00019/MBL900/19/211-28/13)
+   - SAP #: 927620001900 (3RD BELT ASSY-00019/MBL900/19/211-28/13)
+	- Specification Code: 927620001900;Z1;100;55345;55345
+	- Description: 3rd Belt 210 mm, with Gum 211.40 mm  
+	- CALAND. STEEL CORD
+		- Material Code: 927320000500
+	- EDGE WRAP PROFILE
+		- Material Code: 92757EW00220
+	- Gum Edge to Outside (mm): 13.7
+	- Breaker Width no assembly (mm): 210.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 211.40
 
 - **Breaker 4:**
 
-   - 927530001600 (4TH BELT-00016/MBL600/19/76)
+   - SAP #: 927530001600 (4TH BELT-00016/MBL600/19/76)
+	- Specification Code: 927530001600;Z1;110;55101;55101
+	- Description: 4th Belt 76.0 mm 19 deg MBL600  
+	- CALAND. STEEL CORD
+		- Material Code: 927320000400
+	- Breaker Width no assembly (mm): 76.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 76.00
 
-   - 927530002500 (4TH BELT-00025/MBL600/19/150)
+   - SAP #: 927530002500 (4TH BELT-00025/MBL600/19/150)
+	- Specification Code: 927530002500;Z1;101;55100;55100
+	- Description: 4th Belt 150.0 mm 19 deg MBL600   
+	- CALAND. STEEL CORD
+		- Material Code: 927320000400 
+	- Breaker Width no assembly (mm): 150.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 150.00
 
-   - 927530002600 (4TH BELT-00026/MBL600/19/165)
+
+   - SAP #: 927530002600 (4TH BELT-00026/MBL600/19/165)
+	- Specification Code: 927530002600;Z1;100;55099;55099 
+	- Description: 4th Belt 165.0 mm MBL600 19 deg   
+	- CALAND. STEEL CORD
+		- Material Code: 927320000400
+	- Breaker Width no assembly (mm): 165.00
+	- Breaker Total Width (spec card) Assembly Width (mm): 165.00
+
 
 - **Beads:**
 
-   - 9276C0000600 (BEAD-00006/x 43-/)
+   - SAP #: 9276C0000600 (BEAD-00006/x 43-/)
 
-   - 9276C0000700 (BEAD-00007/x 47-/)
+   - SAP #: 9276C0000700 (BEAD-00007/x 47-/)
 
-   - 9276C0000800 (BEAD-00008/x 49-/)
+   - SAP #: 9276C0000800 (BEAD-00008/x 49-/)
 
 - **Tread:**
 
-   - 927410000500 (TR-/05911/01634/096XY-)
+   - SAP #: 927410000500 (TR-/05911/01634/096XY-)
 
-   - 927410001400 (TR-/11142/09430/09PAP-)
+   - SAP #: 927410001400 (TR-/11142/09430/09PAP-)
 
-   - 927410001700 (TR-/11142/05482/1APD1-)
+   - SAP #: 927410001700 (TR-/11142/05482/1APD1-)
 
-   - 927410001800 (TR-/11142/05482/1APD1-)
+   - SAP #: 927410001800 (TR-/11142/05482/1APD1-)
 
-   - 927410002000 (TR-/11142/03312/1BDHY-)
+   - SAP #: 927410002000 (TR-/11142/03312/1BDHY-)
 
-   - 927410002100 (TR-/05911/01634/096XY-)
+   - SAP #: 927410002100 (TR-/05911/01634/096XY-)
 
-   - 927410002300 (TR-/11142/15646/1AOUJ-)
+   - SAP #: 927410002300 (TR-/11142/15646/1AOUJ-)
 
-   - 927410002400 (TR-/11142/15646/09EAC-)
+   - SAP #: 927410002400 (TR-/11142/15646/09EAC-)
 
-   - 927410002800 (TR-/11142/15646/09EAC-)
+   - SAP #: 927410002800 (TR-/11142/15646/09EAC-)
 
 ## Tires & Important Specs:
 - **927680003200:**
