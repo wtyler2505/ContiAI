@@ -412,30 +412,263 @@ Text-based data storage for ContiAI Memory Bank:
 - **Beads:**
 
    - SAP #: 9276C0000600 (BEAD-00006/x 43-/)
+	- Specification Code: 9276C0000600;Z1;102;55448;55448
+	- Description: 8-9-9-8-5-4 22.5" 573.31 mm diam
+	- Die ID: 09G3I BAC 1,2, and 3
+	- Insert ID (PreDie): 09G3I BAC 1,2, and 3
+	- Profile Code: 09G3I
+	- Bead_Diameter(Drum) (in): 22.5000
+	- Bead Type: P
+	- Flipper_Width (mm): 53.3000
+	- Bead Apex Diameter(spec card) (mm): 573.310
+	- Gum Strip Width (mm): 30.0000
+	- SLAB SLITTING
+		- Material Name/Type: A01030
+		- Material Code: 9272Z0103000
+	- FLIPPER TEXTILE
+		- Material Code: 912561088300
+	- APEX COMPOUND (bottom)
+		- Material Code: 927250529300
+	- BEAD WIRE
+		- Material Code: R040420000
+	- APEX COMPOUND (top)
+		- Material Code: 927250598900
+	- STRIP RUBBER
+		- Material Code: 92757S000100
+
 
    - SAP #: 9276C0000700 (BEAD-00007/x 47-/)
+	- Specification Code: 9276C0000700;Z1;102;55390;55390
+	- Description: ID 573.31mm W 18.3mm 8-9-10-9-7-6 Die #2 (09K5F) Apex width 75mm
+	- Die ID: 09K5F BAC 1,2, or 3.
+	- Insert ID (PreDie): 09K5F BAC 1,2, or 3.
+	- Profile Code: 09K5F
+	- Bead_Diameter(Drum) (in): 22.5000
+	- Bead Type: P
+	- Flipper_Width (mm): 53.3000
+	- Bead Apex Diameter(spec card) (mm): 573.310
+	- Gum Strip Width (mm): 30.0000
+	- SLAB SLITTING
+		- Material Name/Type: A01030
+		- Material Code: 9272Z0103000
+	- FLIPPER TEXTILE
+		- Material Code: 912561088300
+	- APEX COMPOUND (bottom)
+		- Material Name/Type: A01031
+		- Material Code: 927250529300
+	- BEAD WIRE
+		- Material Code: R040420000
+	- APEX COMPOUND (top)
+		- Material Name/Type: A05989
+		- Material Code: 927250598900
+	- STRIP RUBBER
+		- Material Code: 92757S000100
 
    - SAP #: 9276C0000800 (BEAD-00008/x 49-/)
+	- Specification Code: 9276C0000800;Z1;104;55388;55388
+	- Description: 8-9-10-9-7-6 24.5"
+	- Die ID: 09K5F BAC 1,2, and 3.
+	- Insert ID (PreDie): 09K5F BAC 1,2, and 3.
+	- Profile Code: 09K5F
+	- Bead_Diameter(Drum) (in): 24.5000
+	- Bead Type: P
+	- Flipper_Width (mm): 53.3000
+	- Bead Apex Diameter(spec card) (mm): 53.3000
+	- Gum Strip Width (mm): 30.0000
+	- SLAB SLITTING
+		- Material Code: 9272Z0103000
+	- FLIPPER TEXTILE
+		- Material Code: 912561088300
+	- APEX COMPOUND (bottom)
+		- Material Code: 927250529300
+	- BEAD WIRE
+		- Material Code: R040420000
+	- APEX COMPOUND (top)
+		- Material Code: 927250598900
+	- STRIP RUBBER
+		- Material Code: 92757S000100
 
 - **Tread:**
 
    - SAP #: 927410000500 (TR-/05911/01634/096XY-)
+	- Specification Code: 927410000500;Z1;108;55469;55469
+	- Description: 096XY_Eco+
+	- Die ID: 096XY
+	- Pre-Die ID: PT305 / 0
+	- Hot Width (mm): 275
+	- Hot Shoulder Width (mm): 199
+	- Cold Width (mm): 275
+	- Cold Shoulder Width (mm): 198
+	- Booked Length (mm): 3030
+	- BASE COMPOUND
+		- Material Name/Type: T05911
+		- Material Code: 927250591100
+	- RECOAT COMPOUND
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
+	- CAP COMPOUND 1
+		- Material Code: 927250163400
+
 
    - SAP #: 927410001400 (TR-/11142/09430/09PAP-)
+	- Specification Code: 927410001400;Z1;100;55239;55239
+	- Description: 09PAP_11R+GenHT
+	- Die ID: 09PAP
+	- Pre-Die ID: PT200F
+	- Hot Width (mm): 268
+	- Hot Shoulder Width (mm): 198
+	- Cold Width (mm): 264
+	- Cold Shoulder Width (mm): 193
+	- Booked Length (mm): 3140
+	- BASE COMPOUND
+		- Material Name/Type: T11142
+		- Material Code: 927251114200
+	- RECOAT COMPOUND
+		- Material Name/Type: T09430
+		- Material Code: 927250943000
+	- CAP COMPOUND 1
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
 
    - SAP #: 927410001700 (TR-/11142/05482/1APD1-)
+	- Specification Code: 
+	- Description: 
+	- Die ID: 
+	- Pre-Die ID: 
+	- Hot Width (mm): 
+	- Hot Shoulder Width (mm): 
+	- Cold Width (mm): 
+	- Cold Shoulder Width (mm): 
+	- Booked Length (mm): 
+	- BASE COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- RECOAT COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- CAP COMPOUND 1
+		- Material Name/Type: 
+		- Material Code: 
 
    - SAP #: 927410001800 (TR-/11142/05482/1APD1-)
+	- Specification Code: 
+	- Description: 
+	- Die ID: 
+	- Pre-Die ID:
+	- Hot Width (mm): 
+	- Hot Shoulder Width (mm): 
+	- Cold Width (mm): 
+	- Cold Shoulder Width (mm): 
+	- Booked Length (mm): 
+	- BASE COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- RECOAT COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- CAP COMPOUND 1
+		- Material Name/Type: 
+		- Material Code: 
 
    - SAP #: 927410002000 (TR-/11142/03312/1BDHY-)
+	- Specification Code: 
+	- Description: 
+	- Die ID: 
+	- Pre-Die ID: 
+	- Hot Width (mm): 
+	- Hot Shoulder Width (mm): 
+	- Cold Width (mm): 
+	- Cold Shoulder Width (mm): 
+	- Booked Length (mm): 
+	- BASE COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- RECOAT COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- CAP COMPOUND 1
+		- Material Name/Type: 
+		- Material Code: 
 
    - SAP #: 927410002100 (TR-/05911/01634/096XY-)
+	- Specification Code: 
+	- Description: 
+	- Die ID: 
+	- Pre-Die ID:
+	- Hot Width (mm): 
+	- Hot Shoulder Width (mm): 
+	- Cold Width (mm): 
+	- Cold Shoulder Width (mm): 
+	- Booked Length (mm): 
+	- BASE COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- RECOAT COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- CAP COMPOUND 1
+		- Material Name/Type: 
+		- Material Code: 
 
    - SAP #: 927410002300 (TR-/11142/15646/1AOUJ-)
+	- Specification Code: 
+	- Description: 
+	- Die ID: 
+	- Pre-Die ID: 
+	- Hot Width (mm): 
+	- Hot Shoulder Width (mm): 
+	- Cold Width (mm): 
+	- Cold Shoulder Width (mm): 
+	- Booked Length (mm): 
+	- BASE COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- RECOAT COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- CAP COMPOUND 1
+		- Material Name/Type: 
+		- Material Code: 
 
    - SAP #: 927410002400 (TR-/11142/15646/09EAC-)
+	- Specification Code: 
+	- Description: 
+	- Die ID: 
+	- Pre-Die ID: 
+	- Hot Width (mm): 
+	- Hot Shoulder Width (mm): 
+	- Cold Width (mm): 
+	- Cold Shoulder Width (mm): 
+	- Booked Length (mm): 
+	- BASE COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- RECOAT COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- CAP COMPOUND 1
+		- Material Name/Type: 
+		- Material Code: 
 
    - SAP #: 927410002800 (TR-/11142/15646/09EAC-)
+	- Specification Code: 
+	- Description: 
+	- Die ID: 
+	- Pre-Die ID: 
+	- Hot Width (mm): 
+	- Hot Shoulder Width (mm): 
+	- Cold Width (mm): 
+	- Cold Shoulder Width (mm): 
+	- Booked Length (mm): 
+	- BASE COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- RECOAT COMPOUND
+		- Material Name/Type: 
+		- Material Code: 
+	- CAP COMPOUND 1
+		- Material Name/Type: 
+		- Material Code: 
 
 ## Tires & Important Specs:
 - **927680003200:**
