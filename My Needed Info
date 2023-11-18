@@ -531,159 +531,594 @@ Text-based data storage for ContiAI Memory Bank:
 		- Material Code: 927250071500
 
    - SAP #: 927410001700 (TR-/11142/05482/1APD1-)
-	- Specification Code: 
-	- Description: 
-	- Die ID: 
-	- Pre-Die ID: 
-	- Hot Width (mm): 
-	- Hot Shoulder Width (mm): 
-	- Cold Width (mm): 
-	- Cold Shoulder Width (mm): 
-	- Booked Length (mm): 
+	- Specification Code: 927410001700;Z1;103;55245;55245
+	- Description: 1APD1_HSR2_22.5
+	- Die ID: 1APD1
+	- Pre-Die ID: PT245F
+	- Hot Width (mm): 278
+	- Hot Shoulder Width (mm): 204
+	- Cold Width (mm): 275
+	- Cold Shoulder Width (mm): 200
+	- Booked Length (mm): 3145
 	- BASE COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T11142
+		- Material Code: 927251114200
 	- RECOAT COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
 	- CAP COMPOUND 1
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T05482
+		- Material Code: 927250548200
 
    - SAP #: 927410001800 (TR-/11142/05482/1APD1-)
-	- Specification Code: 
-	- Description: 
-	- Die ID: 
-	- Pre-Die ID:
-	- Hot Width (mm): 
-	- Hot Shoulder Width (mm): 
-	- Cold Width (mm): 
-	- Cold Shoulder Width (mm): 
-	- Booked Length (mm): 
+	- Specification Code: 927410001800;Z1;101;55246;55246
+	- Description: 1APD1_HSR2_24.5
+	- Die ID: 1APD1
+	- Pre-Die ID: PT245F
+	- Hot Width (mm): 278
+	- Hot Shoulder Width (mm): 204
+	- Cold Width (mm): 275
+	- Cold Shoulder Width (mm): 200
+	- Booked Length (mm): 3305
 	- BASE COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T11142
+		- Material Code: 927251114200
 	- RECOAT COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
 	- CAP COMPOUND 1
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T05482
+		- Material Code: 927250548200
 
    - SAP #: 927410002000 (TR-/11142/03312/1BDHY-)
-	- Specification Code: 
-	- Description: 
-	- Die ID: 
-	- Pre-Die ID: 
-	- Hot Width (mm): 
-	- Hot Shoulder Width (mm): 
-	- Cold Width (mm): 
-	- Cold Shoulder Width (mm): 
-	- Booked Length (mm): 
+	- Specification Code: 927410002000;Z1;103;55496;55496
+	- Description: 1BDHY_GeneralRA_24.5 
+	- Die ID: 1BDHY
+	- Pre-Die ID: PT245F
+	- Hot Width (mm): 273
+	- Hot Shoulder Width (mm): 204
+	- Cold Width (mm): 270
+	- Cold Shoulder Width (mm): 204
+	- Booked Length (mm): 3290
 	- BASE COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T11142
+		- Material Code: 927251114200
 	- RECOAT COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
 	- CAP COMPOUND 1
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Code: 927250331200
 
    - SAP #: 927410002100 (TR-/05911/01634/096XY-)
-	- Specification Code: 
-	- Description: 
-	- Die ID: 
-	- Pre-Die ID:
-	- Hot Width (mm): 
-	- Hot Shoulder Width (mm): 
-	- Cold Width (mm): 
-	- Cold Shoulder Width (mm): 
-	- Booked Length (mm): 
+	- Specification Code: 927410002100;Z1;100;55468;55468
+	- Description: 096XY_11R_Eco+
+	- Die ID: 096XY
+	- Pre-Die ID:PT305 / 0
+	- Hot Width (mm): 275
+	- Hot Shoulder Width (mm): 199
+	- Cold Width (mm): 275
+	- Cold Shoulder Width (mm): 198
+	- Booked Length (mm): 3140
 	- BASE COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T05911
+		- Material Code: 927250591100
 	- RECOAT COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
 	- CAP COMPOUND 1
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Code: 927250163400
 
    - SAP #: 927410002300 (TR-/11142/15646/1AOUJ-)
-	- Specification Code: 
-	- Description: 
-	- Die ID: 
-	- Pre-Die ID: 
-	- Hot Width (mm): 
-	- Hot Shoulder Width (mm): 
-	- Cold Width (mm): 
-	- Cold Shoulder Width (mm): 
-	- Booked Length (mm): 
+	- Specification Code: 927410002300;Z1;100;55248;55248
+	- Description: 1AOUJ_GeneralRD_24.5
+	- Die ID: 1AOUJ
+	- Pre-Die ID: PT245F
+	- Hot Width (mm): 273
+	- Hot Shoulder Width (mm): 204
+	- Cold Width (mm): 270
+	- Cold Shoulder Width (mm): 200
+	- Booked Length (mm): 3305
 	- BASE COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T11142
+		- Material Code: 927251114200
 	- RECOAT COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
 	- CAP COMPOUND 1
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Code: 927251564600
 
    - SAP #: 927410002400 (TR-/11142/15646/09EAC-)
-	- Specification Code: 
-	- Description: 
-	- Die ID: 
-	- Pre-Die ID: 
-	- Hot Width (mm): 
-	- Hot Shoulder Width (mm): 
-	- Cold Width (mm): 
-	- Cold Shoulder Width (mm): 
-	- Booked Length (mm): 
+	- Specification Code: 927410002400;Z1;101;55425;55425
+	- Description: 09EAC_24.5_HDL2
+	- Die ID: 09EAC
+	- Pre-Die ID: PT245F
+	- Hot Width (mm): 283
+	- Hot Shoulder Width (mm): 233
+	- Cold Width (mm): 280
+	- Cold Shoulder Width (mm): 224 
+	- Booked Length (mm): 3330
 	- BASE COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T11142
+		- Material Code: 927251114200
 	- RECOAT COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
 	- CAP COMPOUND 1
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Code: 927251564600
 
    - SAP #: 927410002800 (TR-/11142/15646/09EAC-)
-	- Specification Code: 
-	- Description: 
-	- Die ID: 
-	- Pre-Die ID: 
-	- Hot Width (mm): 
-	- Hot Shoulder Width (mm): 
-	- Cold Width (mm): 
-	- Cold Shoulder Width (mm): 
-	- Booked Length (mm): 
+	- Specification Code: 927410002800;Z1;100;55424;55424
+	- Description: 09EAC_HDL2_22.5
+	- Die ID: 09EAC
+	- Pre-Die ID: PT245F
+	- Hot Width (mm): 283
+	- Hot Shoulder Width (mm): 233
+	- Cold Width (mm): 280
+	- Cold Shoulder Width (mm): 224
+	- Booked Length (mm): 3165
 	- BASE COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: T11142
+		- Material Code: 927251114200
 	- RECOAT COMPOUND
-		- Material Name/Type: 
-		- Material Code: 
-	- CAP COMPOUND 1
-		- Material Name/Type: 
-		- Material Code: 
+		- Material Name/Type: B00715
+		- Material Code: 927250071500
+	- CAP COMPOUND
+		- Material Code: 927251564600
 
 ## Tires & Important Specs:
 - **927680003200:**
-   - WORK CODE : 927680003200
-   - Specification Code: 927680003200;E2;100;54350;54350
-   - Description: 0531027000_295/75 R 22.5 144/141L_Conti EcoPlus HT3(EBR)
-   - Bead Distance Inside (mm): 607
-   - Liner Assembly
-        - Workcode 92764E001200
-        - Material H06660Y
-        - Width (mm) 640
-        - Length (mm) 1676
-   - Sidewall
-        - Workcode (left) 927420000410
-        - Workcode (rigth) 927420000420
-        - RStrip Material R05606
-        - SW Material S10539
-        - 
+	- WORK CODE : 927680003200
+	- Specification Code: 927680003200;E2;100;54350;54350
+	- Description: 0531027000_295/75 R 22.5 144/141L_Conti EcoPlus HT3(EBR)
+	- Bead Distance Inside (mm): 607
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 92764E001200
+	- Sidewall
+        	- Workcode (left): 927420000410
+        	- Workcode (rigth): 927420000420
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 1090
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680003600:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680004000:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680004600:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680004800:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680004900:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680005000:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680005100:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680005200:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680005500:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+- **927680005600:**
+	- WORK CODE : 
+	- Specification Code: 
+	- Description: 
+	- Bead Distance Inside (mm): 
+	- Sidewall Placement on Innerliner (mm):
+		- Right (mm): 
+		- Left (mm): 
+	- Sidewall Set Position (mm): 
+	- Liner Assembly
+        	- Workcode: 
+	- Sidewall
+        	- Workcode (left): 
+        	- Workcode (rigth): 
+	- Pre-Assembly (IL+SW)
+		- Width (mm): 
+	- Bead
+		- Workcode: 
+	- Body Ply
+		- Workcode: 
+		- Body Ply Ends (mm):
+	- Should Pad
+		- Workcode:
+		- Positioning Setpoint (mm): 
+	- Breaker 1
+		- Workcode: 
+	- Breaker 2
+		- Workcode: 
+	- Breaker 3
+		- Workcode: 
+	- Breaker 4
+		- Workcode: 
+	- Tread
+		- Workcode: 
+		- Heater to Heater (HtH) Distance (mm): 
+	- Barcode Position Height (mm):
+	- Weight: 
+	- Circumference Center (mm): 
+	- Circumference Shoulder (mm): 
+	- Distance Center to Shoulder (mm): 
+
+
+
+
+
+
